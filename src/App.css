@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0px;
+    height: 100vh;
+    background-image: url(images/pexels-pixabay-210574.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
